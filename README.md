@@ -1,6 +1,7 @@
 # TreeViewFolderBrowser
 Supports Explorer, SingleChecked and RecursiveChecked mode (checkboxes). Lets you specify the displayed drive types etc..
 
+![Demo Application](https://github.com/ChrisRichner/TreeViewFolderBrowser/blob/master/article/DemoApplication.png "Demo Application running on Windows 10 Preview Build")
 
 Based on popular demand in the [discussion area](http://www.codeproject.com/Articles/4472/WebControls/#_comments) I've decided to put the latest code out in the wild. 
 The software is provided "as is". Bare in mind that this is an early 3.0.0 Version which never made it's way to [codeproject.com](http://codeproject.com).
