@@ -1,3 +1,5 @@
+[![chrisrichner MyGet Build Status](https://www.myget.org/BuildSource/Badge/chrisrichner?identifier=28926def-a1c7-4a71-b598-8b43bef5e927)](https://www.myget.org/)
+
 # TreeViewFolderBrowser
 Supports Explorer, SingleChecked and RecursiveChecked mode (checkboxes). Lets you specify the displayed drive types etc..
 
