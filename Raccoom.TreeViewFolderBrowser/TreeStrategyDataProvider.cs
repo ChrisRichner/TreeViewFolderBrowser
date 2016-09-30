@@ -25,7 +25,7 @@ namespace Raccoom.Windows.Forms
 	/// <item>Imagelist which is used to assign images to the nodes created by this instance.</item>  
 	/// <item>ContextMenu</item>
 	/// </list>
-	/// <see cref="TreeViewFolderBrowser"/> calls the interface method's and provide a <see cref="TreeViewFolderBrowserHelper"/> instance which let you create node's and give you access to the underlying <see cref="TreeViewFolderBrowser"/> instance.
+	/// <see cref="TreeViewFolderBrowser"/> calls the interface method's and provide a TreeViewFolderBrowserHelper instance which let you create node's and give you access to the underlying <see cref="TreeViewFolderBrowser"/> instance.
 	/// </summary>
 	public interface ITreeStrategyDataProvider
 	{

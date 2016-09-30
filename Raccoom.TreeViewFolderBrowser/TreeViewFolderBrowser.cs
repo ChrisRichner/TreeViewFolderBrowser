@@ -392,7 +392,11 @@ namespace Raccoom.Windows.Forms
                 MarkNodesRecursive(parent.Parent as TreeNodePath);
             }
         }
-
+        /// <summary>
+        /// Shows a message box with the given title and exception details
+        /// </summary>
+        /// <param name="mainTitle">Title</param>
+        /// <param name="ex">Exception Details</param>
         protected virtual void UIVisualizeErrorMessage(string mainTitle, Exception ex)
         {
             System.Windows.Forms.MessageBox.Show(mainTitle + Environment.NewLine + Environment.NewLine + ex.Message, System.Windows.Forms.Application.ProductName, System.Windows.Forms.MessageBoxButtons.OK, System.Windows.Forms.MessageBoxIcon.Error, System.Windows.Forms.MessageBoxDefaultButton.Button1, System.Windows.Forms.MessageBoxOptions.DefaultDesktopOnly, false);
