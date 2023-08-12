@@ -36,7 +36,7 @@
     </SccAuxPath>
     <SccProvider>
     </SccProvider>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <ManifestCertificateThumbprint>F7A1CA23E390F53E3EEAD946856868A44974F0F9</ManifestCertificateThumbprint>
     <ManifestKeyFile>Raccoom.TreeViewFolderBrowser.Demo_TemporaryKey.pfx</ManifestKeyFile>
     <GenerateManifests>true</GenerateManifests>
